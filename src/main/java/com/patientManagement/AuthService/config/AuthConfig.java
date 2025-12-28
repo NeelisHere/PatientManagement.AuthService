@@ -1,0 +1,7 @@
+package com.patientManagement.AuthService.config;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class AuthConfig {
+}
